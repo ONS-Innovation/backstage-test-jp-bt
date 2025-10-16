@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: backstage-test-jp-bt
+  annotations:
+    github.com/project-slug: ONS-Innovation/backstage-test-jp-bt
+spec:
+  type: other
+  lifecycle: unknown
+  owner: spotify-backstage-trial-team-2
